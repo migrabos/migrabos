@@ -21,18 +21,19 @@
 - 🔗 Check out my pinned repositories down below
 
 ---
-
-### � Languages that I know:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c" alt="Languages"/>
-</p>
-
 ### 🌱 Languages that I'm learning:
 
 <p>
   <img src="https://skillicons.dev/icons?i=rust,elixir,react,nodejs" alt="Learning"/>
 </p>
+
+
+### 🧠 Languages that I know:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c" alt="Languages"/>
+</p>
+
 
 ### 🔧 Technologies I have worked with:
 
@@ -41,10 +42,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=migrabos&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migrabos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
