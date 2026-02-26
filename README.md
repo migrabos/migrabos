@@ -38,7 +38,7 @@
 ### 🔧 Technologies I have worked with:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=gradle,git,github,postman,linux,sqlite" alt="Technologies"/>
+  <img src="https://skillicons.dev/icons?i=gradle,git,github,postman,linux,sqlite,vscode,pycharm,clion,idea" alt="Technologies"/>
 </p>
 
 ---
