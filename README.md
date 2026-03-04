@@ -16,7 +16,7 @@
 
 ---
 
-- 🎓 B.Sc. in Computer Science at **AGH University of Krakow** (2nd year)
+- 🎓 B.Sc. in Computer Science at **AGH University of Cracow** (2nd year)
 - 📫 How to reach me: **michal.grabos@op.pl**
 - 🔗 Check out my pinned repositories down below
 
