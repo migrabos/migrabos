@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Michał</h1>
-
-<h3 align="center">Computer Science Student @ AGH University of Krakow</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Micha%C5%82;Computer+Science+Student+%40+AGH" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/michal-grabos/">
@@ -16,29 +16,19 @@
 
 ---
 
-- 🎓 B.Sc. in Computer Science at **AGH University of Cracow** (2nd year)
-- 📫 How to reach me: **michal.grabos@op.pl**
-- 🔗 Check out my pinned repositories down below
+- 🎓 B.Sc. in Computer Science at **AGH University of Kraków** (2nd year)
+- 📫 Reach me at **michal.grabos@op.pl**
+- 🔗 Check out my pinned repositories below
 
 ---
-### 🌱 Languages that I'm learning:
 
+### 🧠 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,elixir,react,nodejs" alt="Learning"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,react,rust,elixir" alt="Languages"/>
 </p>
 
-
-### 🧠 Languages that I know:
-
+### 🔧 Tools & technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=gradle,git,github,postman,linux,sqlite,postgres,vscode,pycharm,clion,idea,mongodb,docker" alt="Technologies"/>
 </p>
 
-
-### 🔧 Technologies I have worked with:
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gradle,git,github,postman,linux,sqlite,vscode,pycharm,clion,idea" alt="Technologies"/>
-</p>
-
----
