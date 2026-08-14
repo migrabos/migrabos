@@ -22,7 +22,7 @@
 
 ---
 
-### 🧠 Languages
+### 🧠 Languages I have worked with
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,react,rust,elixir" alt="Languages"/>
 </p>
